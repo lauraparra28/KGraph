@@ -1,4 +1,4 @@
-# KGraph: Graphs in OWL Knowledge Repositories
+# KGraph: Graphs in OWL Knowledge 
 
 Este repositório contém dois scripts Python que exploram e comparam ontologias OWL usando a biblioteca owlready2. Esses scripts são úteis para realizar diversas operações em grafos de conhecimento, como verificação de consistência, inferência de instâncias, extração de informações e comparação de ontologias.
 
@@ -28,6 +28,6 @@ Certifique-se de ter a biblioteca owlready2 instalada antes de executar o script
 pip install owlready2
 pip install networkx
 pip install matplotlib
-
+```
 ## 4. Contribuições 
 Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou encontrar problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
