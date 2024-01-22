@@ -37,5 +37,8 @@ pip install owlready2
 pip install networkx
 pip install matplotlib
 ```
-## 4. Contribuições 
-Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou encontrar problemas, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+## 4. 📝 Bibliografia
+- Brath, R., & Jonker, D. (2015). Graph analysis and visualization: discovering business opportunity in linked data. John Wiley & Sons.
+- Provost, F., & Fawcett, T. (2013). Data Science for Business: What you need to know about data mining and data-analytic thinking. " O'Reilly Media, Inc.".
+- Krishna, P. V., Gurumoorthy, S., Obaidat, M. S., Mithili Devi, N., & Kasireddy, S. R. (2019). Graph analysis and visualization of social network big data. Social Network Forensics, Cyber Security, and Machine Learning, 93-104.
+- Kaur, P., & Owonibi, M. (2017, February). A review on visualization recommendation strategies. In International Conference on Information Visualization Theory and Applications (Vol. 4, pp. 266-273). SCITEPRESS.
