@@ -27,17 +27,17 @@ Ontologia foi definida na linguagem de modelagem ontológica OWL (Web Ontology L
 ### WebVOWL
 Consegui visualizar o grafo usando o [WebVOWL (Visual Notation for OWL Ontologies)](https://service.tib.eu/webvowl/) é uma ferramenta web que permite a visualização gráfica de ontologias OWL (Web Ontology Language). Ele fornece uma representação visual intuitiva de classes, propriedades e suas relações em uma ontologia. O objetivo principal do WebVOWL é melhorar a compreensão e a interpretação de ontologias complexas.
 
-## 2. Comparação entre Ontologias
+## 3. Comparação entre Ontologias
 O notebook `compare_class_ontologies.ipynb` realiza a comparação entre duas ontologias, analisando as classes em comum. Esse script é útil para identificar semelhanças e diferenças entre ontologias diferentes.
 
-## 3. Pré-requisitos
+## 4. Pré-requisitos
 Certifique-se de ter a biblioteca owlready2 instalada antes de executar o script. Você pode instalá-la usando o seguinte comando:
 ```bash
 pip install owlready2
 pip install networkx
 pip install matplotlib
 ```
-## 4. 📝 Bibliografia
+## 5. 📝 Bibliografia
 - Brath, R., & Jonker, D. (2015). Graph analysis and visualization: discovering business opportunity in linked data. John Wiley & Sons.
 - Provost, F., & Fawcett, T. (2013). Data Science for Business: What you need to know about data mining and data-analytic thinking. " O'Reilly Media, Inc.".
 - Krishna, P. V., Gurumoorthy, S., Obaidat, M. S., Mithili Devi, N., & Kasireddy, S. R. (2019). Graph analysis and visualization of social network big data. Social Network Forensics, Cyber Security, and Machine Learning, 93-104.
