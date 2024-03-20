@@ -4,7 +4,7 @@ Este repositório contém dois scripts Python que exploram e comparam ontologias
 
 ## 1. Exploração de Grafos em Ontologias
 
-O notebook `exploracao_grafos.ipynb` fornece uma interface interativa para explorar grafos em ontologias OWL. Abra o notebook em um ambiente Jupyter para seguir passo a passo as operações disponíveis. Ele utiliza a biblioteca owlready2 para realizar diversas operações em ontologias OWL. Alguns dos principais recursos incluem:
+O notebook `exploring_graph.ipynb` fornece uma interface interativa para explorar grafos em ontologias OWL. Abra o notebook em um ambiente Jupyter para seguir passo a passo as operações disponíveis. Ele utiliza a biblioteca owlready2 para realizar diversas operações em ontologias OWL. Alguns dos principais recursos incluem:
 - Verificação de consistência da ontologia.
 - Inferência de instâncias e propriedades.
 - Extração de informações específicas da ontologia.
@@ -22,7 +22,7 @@ Para explorar um grafo no formato OWL mais detalhadamente, pode ser util utiliza
 ### Protégé 
 É uma ferramenta para a criação e edição de ontologias, e possui integração com o [Graphviz](https://graphviz.org/download/), como uma ferramenta externa, _**para a visualização ou gerar representações gráficas de ontologias.**_ Basicamente é uma ferramenta para visualização de grafos e pode ser utilizada para representar ontologias de maneira gráfica. 
 
-Ontologia foi definida na linguagem de modelagem ontológica OWL (Web Ontology Language) e foram definidos os conceitos, propriedades e relações no NER_geologica (https://codigo-externo.petrobras.com.br.mcas.ms/buscasemantica/ontologias_entidades_relacoes/ner_geologica)
+Ontologia foi definida na linguagem de modelagem ontológica OWL (Web Ontology Language) e foram definidos os conceitos, propriedades e relações no [NER_geologica](https://codigo-externo.petrobras.com.br.mcas.ms/buscasemantica/ontologias_entidades_relacoes/ner_geologica)
 
 ### WebVOWL
 Consegui visualizar o grafo usando o [WebVOWL (Visual Notation for OWL Ontologies)](https://service.tib.eu/webvowl/) é uma ferramenta web que permite a visualização gráfica de ontologias OWL (Web Ontology Language). Ele fornece uma representação visual intuitiva de classes, propriedades e suas relações em uma ontologia. O objetivo principal do WebVOWL é melhorar a compreensão e a interpretação de ontologias complexas.
