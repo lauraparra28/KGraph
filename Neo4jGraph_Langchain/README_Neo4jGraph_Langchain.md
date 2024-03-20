@@ -6,6 +6,10 @@
 
 O Jupyter notebook `Neo4jGraph_Langchain.ipynb` configura uma cadeia de processamento de perguntas e respostas que utiliza um modelo de linguagem da OpenAI como base (ChatOpenAI) e se conecta a um banco de dados Neo4j (Neo4jGraph). Especificamente, cria a cadeia de processamento de perguntas e respostas, especificando o modelo de linguagem, a conexão com o Neo4j e habilitando mensagens de depuração. Finalmente, executa a cadeia de processamento com uma pergunta específica para receber uma resposta. Esse processo combina inteligência artificial com uma base de conhecimento em grafo para responder a perguntas específicas de forma contextualizada.
 
+## The Database
+This project uses the classic Neo4j dataset, the movie database, it includes Movie, Actor, Director, and Genre nodes, connected by relationships.
+
+![image](https://github.com/lauraparra28/KGraph/assets/10816198/82cf5d31-de22-4e6d-8df2-87978e5b1475)
 
 ###  👩‍💻 Results: Implement Langchain over Neo4j Sandbox: Dataset Movies
 
