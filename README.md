@@ -30,6 +30,9 @@ Consegui visualizar o grafo usando o [WebVOWL (Visual Notation for OWL Ontologie
 ## 3. Comparação entre Ontologias
 O notebook `compare_class_ontologies.ipynb` realiza a comparação entre duas ontologias, analisando as classes em comum. Esse script é útil para identificar semelhanças e diferenças entre ontologias diferentes.
 
+## 4. Langchain with Free Graph Database do Neo4j Movies
+O Jupyter notebook Neo4jGraph_Langchain.ipynb configura uma cadeia de processamento de perguntas e respostas que utiliza um modelo de linguagem da OpenAI como base (ChatOpenAI) e se conecta a um banco de dados Neo4j (Neo4jGraph) baseado em filmes que incluem atores e filmes respectivamente relacionados com nós e arestas. Especificamente, cria a cadeia de processamento de perguntas e respostas, especificando o modelo de linguagem, a conexão com o Neo4j e habilitando mensagens de depuração. Finalmente, executa a cadeia de processamento com uma pergunta específica para receber uma resposta. Esse processo combina AI com uma base de conhecimento em grafo para responder a perguntas específicas de forma contextualizada.
+
 ## 4. Pré-requisitos
 Certifique-se de ter a biblioteca owlready2 instalada antes de executar o script. Você pode instalá-la usando o seguinte comando:
 ```bash
