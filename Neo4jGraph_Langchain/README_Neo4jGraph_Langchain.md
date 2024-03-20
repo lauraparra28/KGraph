@@ -11,7 +11,7 @@ O Jupyter notebook `Neo4jGraph_Langchain.ipynb` configura uma cadeia de processa
 
 ![image](https://github.com/lauraparra28/Graphs/assets/10816198/80e1e7ff-22ba-418c-bcba-aef5e74e15cf)
 
-![image](https://github.com/lauraparra28/Graphs/assets/10816198/556bc2ad-64ba-471c-a8c1-a3ef54ead426)
+![image](https://miro.medium.com/v2/resize:fit:1400/1*aIPT_zo4zQnsQbRP3s8Tpg.png)
 
 
 ## 🕵️‍♀️ Text2Cypher on NebulaGraph
